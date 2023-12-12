@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://jaymjax.com/about">me</a> .
+    <a href="https://instagram.com/jaymjax">instagram</a> .
+  </samp>
+</p>
+
+
+### Hi, I'm Justin 👋
 
 <!--
 **jaymjax1/jaymjax1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Principal at Jackson & Company, a firm specializing in software development, tech advisory, and AI strategy. 
