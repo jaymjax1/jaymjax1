@@ -1,26 +1,7 @@
-<p align="center">
-  <samp>
-    <a href="https://jaymjax.com/about">me</a> .
-    <a href="https://instagram.com/jaymjax">instagram</a> .
-  </samp>
-</p>
-
-
 ### Hi, I'm Justin 👋
 
-<!--
-**jaymjax1/jaymjax1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Owner of Jackson & Company, a technology firm that specializes in software development, startup advisory, and AI strategy.
 
-Here are some ideas to get you started:
+I'm also the founder of MemphisMagic, a record label that produces electronic, symphonic, and sample-based hip hop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm a Principal at Jackson & Company, a firm specializing in software development, tech advisory, and AI strategy. 
+Outside of tech and music, you can catch me running and cycling around Washington, DC. Supporting local non-profits, and going on adventures with my wife and cat.
