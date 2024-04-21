@@ -19,12 +19,16 @@ Outside of tech and music, you can catch me running and cycling around Washingto
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="photoshop" width="40" height="40"/> 
+</a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
+
