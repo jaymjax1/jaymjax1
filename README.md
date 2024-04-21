@@ -4,7 +4,7 @@ I'm the Owner of Jackson & Company, a technology firm that specializes in softwa
 I'm also the founder of MemphisMagic, a record label that produces electronic, symphonic, and sample-based hip hop.
 Outside of tech and music, you can catch me running and cycling around Washington, DC. Supporting local non-profits, and going on adventures with my wife and cat.
 
-### Languages/Runtimes
+### Languages and Runtimes
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
@@ -12,10 +12,10 @@ Outside of tech and music, you can catch me running and cycling around Washingto
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 
 ### Frameworks and Libraries
@@ -35,7 +35,7 @@ Outside of tech and music, you can catch me running and cycling around Washingto
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 
-### Database/ORMs and Caching
+### Database/Caching, and Infra Tools
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
@@ -44,4 +44,9 @@ Outside of tech and music, you can catch me running and cycling around Washingto
 </a>&nbsp;&nbsp; 
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="postgresql" width="40" height="40"/> 
+</a>&nbsp;&nbsp; 
+
+### Devops/Infra
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
