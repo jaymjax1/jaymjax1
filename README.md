@@ -17,6 +17,9 @@ Outside of tech and music, you can catch me running and cycling around Washingto
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+</a>&nbsp;&nbsp;
 
 ### Frameworks and Libraries
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -35,7 +38,7 @@ Outside of tech and music, you can catch me running and cycling around Washingto
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 
-### Database/Caching, and Infra Tools
+### Database and Caching Tools
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
@@ -46,7 +49,13 @@ Outside of tech and music, you can catch me running and cycling around Washingto
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
 
-### Devops/Infra
+### Devops and Infra Tools
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="postgresql" width="40" height="40"/> 
+</a>&nbsp;&nbsp; 
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="postgresql" width="40" height="40"/> 
+</a>&nbsp;&nbsp; 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
