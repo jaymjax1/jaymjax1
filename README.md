@@ -43,7 +43,7 @@ Outside of tech, you can catch me producing music, running and cycling around Wa
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="photoshop" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 
-### Database and Caching Tools
+### Database, Caching and Infrastructure Tools
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
@@ -53,8 +53,6 @@ Outside of tech, you can catch me producing music, running and cycling around Wa
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
-
-### Devops and Infra Tools
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>&nbsp;&nbsp; 
