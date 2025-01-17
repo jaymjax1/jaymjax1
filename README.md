@@ -1,9 +1,22 @@
-### Hi, I'm Justin 👋
+# 👋 Hi, I'm Justin!
 
-I'm the Owner of Jackson & Company, a technology firm that specializes in software development, startup advisory, and AI strategy. I'm currently working on a research project to determine the efficacy of using fine-tuned LLMs for error-proofing/auditing medical transcriptions and clinician summaries in order to reduce administrative overhead.
+I'm a **CTO and Research Engineer** with a decade of experience leading engineering teams, architecting scalable systems, and developing AI-driven solutions. My expertise spans **AI, automation, healthcare, sustainability, and marketplaces**, with a focus on **building high-performance, ethical, and scalable technologies**.
 
-Previously, I worked at a company that engineered custom devices with built-in NVIDIA-powered AI chips and depth sensing cameras used for analyzing human motion and objects on a factory floor in real time.
+## 🚀 What I'm Working On  
+I’m currently working on Honey To Cocoa, developing an innovative platform at the intersection of computer vision and the cosmetics industry.  
 
-I have other past experiences working in organizations innovating in the domains of Artificial Intelligence, Sustainability, and Medical Education, as well as other larger product/consumer focused companies.
+Previously, I conducted research on **LLM-powered clinical documentation**, exploring fine-tuning techniques to audit and error-proof medical transcriptions, achieving **8x performance improvements in medical coding using GPT-4o, Gemini, and Llama**.
 
-Outside of tech, you can catch me producing music, running and cycling around Washington, supporting local non-profits, and going on extensive travels with my wife.
+## 🔧 Past Work Highlights  
+- **AI-powered Computer Vision** – Real-time human motion and object tracking in manufacturing.  
+- **Scalable Marketplaces** – Reengineering inventory platforms for 1,000+ vintage fashion stores.  
+- **EdTech & Healthcare AI** – Optimizing clinical documentation and medical language learning platforms.  
+- **Cloud & DevOps** – Architecting resilient, high-scale distributed systems across AWS and GCP.  
+
+## 🎵 Beyond Tech  
+Outside of engineering, I’m producing music, running and cycling around Washington, and traveling the world with my wife.  
+
+## 📬 Let's Connect!  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jstnjackson)  
+- 💻 [GitHub](https://github.com/jaymjax1)  
+- 📧 [Email](mailto:jaymjax@gmail.com)  
