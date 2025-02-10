@@ -13,9 +13,6 @@ Previously, I conducted research on **LLM-powered clinical documentation**, expl
 - **EdTech & Healthcare AI** – Optimizing clinical documentation and medical language learning platforms.  
 - **Cloud & DevOps** – Architecting resilient, high-scale distributed systems across AWS and GCP.  
 
-## 🎵 Beyond Tech  
-Outside of engineering, I’m producing music, running and cycling around Washington, and traveling the world with my wife.  
-
 ## 📬 Let's Connect!  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jstnjackson)  
 - 💻 [GitHub](https://github.com/jaymjax1)  
