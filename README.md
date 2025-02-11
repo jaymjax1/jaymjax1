@@ -1,4 +1,4 @@
-I'm a CTO and Software Engineer with a decade of experience leading engineering teams, architecting scalable systems, and developing AI-driven solutions. My expertise spans AI, automation, healthcare, sustainability, and marketplaces, with a focus on **building high-performance, ethical, and scalable technologies.
+I'm a CTO and Software Engineer with a decade of experience leading engineering teams, architecting scalable systems, and developing AI-driven solutions. My expertise spans AI, automation, healthcare, sustainability, and marketplaces, with a focus on building high-performance, ethical, and scalable technologies.
 
 I’m currently working on Honey To Cocoa, developing an innovative platform at the intersection of computer vision and the cosmetics industry.  
 
