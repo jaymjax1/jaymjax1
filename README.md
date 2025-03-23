@@ -2,7 +2,7 @@ I'm a Software Engineer with a decade of experience leading engineering teams, a
 
 I’m currently working on Honey To Cocoa, developing an innovative platform at the intersection of computer vision and the cosmetics industry.  
 
-Previously, I conducted research on LLM-powered clinical documentation, exploring fine-tuning techniques to audit and error-proof medical transcriptions, achieving **8x performance improvements in medical coding using GPT-4o, Gemini, and Llama. Below are some highlights
+Previously, I conducted research on LLM-powered clinical documentation, exploring fine-tuning techniques to audit and error-proof medical transcriptions, achieving 8x performance improvements in medical coding using GPT-4o, Gemini, and Llama. Below are some highlights
 
 - **AI-powered Computer Vision** – Real-time human motion and object tracking in manufacturing.  
 - **Scalable Marketplaces** – Reengineering inventory platforms for 1,000+ vintage fashion stores.  
