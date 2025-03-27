@@ -10,7 +10,4 @@ Previously, I conducted research on LLM-powered clinical documentation, explorin
 - **Cloud & DevOps** – Architecting resilient, high-scale distributed systems across AWS and GCP.
 
 If you want to connect, feel free to reach out to me below
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jstnjackson)  
-- 💻 [GitHub](https://github.com/jaymjax1)  
 - 📧 [Email](mailto:jaymjax@gmail.com)  
